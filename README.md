@@ -4,6 +4,7 @@ Description - An application that a person can login to to cast their vote in an
 
 
 Table of Contents
+
 Installation
 Usage
 Contributing
