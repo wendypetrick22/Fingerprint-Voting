@@ -5,10 +5,10 @@ Description - An application that a person can login to to cast their vote in an
 
 Table of Contents
 
-Installation
-Usage
-Contributing
-Credits 
+Installation,
+Usage,
+Contributing,
+Credits,
 Licensing
 
 Installation - Because the application will have to serve all types pf people it needs to be simple and succint. There will be a webpage and a mobile application will be added once the webpage is operational. Admin will be responsible for adding candidates and putting in the date when the election will end. 
